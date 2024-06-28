@@ -23,6 +23,9 @@ body{
     text-align:center; 
     margin:0px 8px 8px 0px; 
 }
+.navig_part{
+    margin-top:1rem;
+}
 .navig li{
     display:inline-block; 
 }
@@ -452,7 +455,7 @@ body{
         width:100%;
     }
     .skill-display{ 
-        margin-left:150px;
+        margin-left:8rem;
              
     } 
     #portfolio{
