@@ -136,28 +136,28 @@ body{
 }
 .percentjavascript{
     background-color: #c77bd1;
-    width:90%;
+    width:20%;
     color:white;
     text-align: center;
     height:inherit;
 }
-.percentnodejs{
+.percentsql{
     background-color: #a47928;
-    width:90%;
+    width:50%;
     color:white;
     text-align: center;
     height:inherit;
 }
 .percentpython{
     background-color: rgb(194, 112, 112);
-    width:80%;
+    width:20%;
     color:white;
     text-align: center; 
     height:inherit;
 }
 .percentdsa{
     background-color: #72cc81;
-    width:40%;
+    width:5%;
     color:white;
     text-align: center;
     height:inherit;
